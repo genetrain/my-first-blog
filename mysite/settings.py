@@ -25,7 +25,7 @@ SECRET_KEY = '5!wq30gtz7s612ns&n!a&pq_*sr&!6$p&627gqy&#z77ve$m71'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'gene.schneider.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'geneschneider.pythonanywhere.com']
 
 
 # Application definition
